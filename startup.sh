@@ -1,3 +1,3 @@
 #/bin/bash
 
-java -jar ./target/spring-petclinic.jar
+java -jar ./spring-petclinic.jar
