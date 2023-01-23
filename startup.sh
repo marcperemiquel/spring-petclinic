@@ -1,3 +1,3 @@
 #/bin/bash
 
-java -jar /home/ubuntu/spring-petclinic/target/spring-petclinic.jar
+java -jar ./target/spring-petclinic.jar
